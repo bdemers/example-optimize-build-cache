@@ -1,0 +1,10 @@
+<gradleEnterprise>
+  <server>
+    <url>https://enterprise-training.gradle.com/</url>
+  </server>
+  <buildScan>
+    <capture>
+      <goalInputFiles>true</goalInputFiles>
+    </capture>
+  </buildScan>
+</gradleEnterprise>
